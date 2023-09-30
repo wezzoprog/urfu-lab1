@@ -9,5 +9,5 @@ ____
 Данные скрипты были написаны на языке программирования Python посредством IDE PyCharm, и для отсутствия возникновения каких-либо проблем с работой скрипта, крайне рекомендую использовать эту же среду программирования. 
 Скрипты работают посредством запуска файлов 'zadanie1.py' и 'zadanie2.py'
 ## Скриншоты программ
-![image](https://github.com/wezzoprog/urfu-lab1/assets/139227216/8d5dc284-bb3a-478a-ba54-fa7ba5d6756c)
-![image](https://github.com/wezzoprog/urfu-lab1/assets/139227216/6200e061-4621-4232-9425-e09590802122)
+![image](https://github.com/wezzoprog/urfu-lab1/assets/139227216/e603216a-119b-4c33-9b89-7404f6b066a7)
+![image](https://github.com/wezzoprog/urfu-lab1/assets/139227216/57a439dc-078d-44e2-b5fe-6e9807720943)
